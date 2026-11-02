@@ -1,18 +1,19 @@
-## Johnathan Parker
+# I am Johnathan Parker
 
-Software engineer building systems that work reliably at scale.
+**Software Engineer**
 
-## What I Focus On
+## Focus Areas
+Audio ML, Speech Recognition, Voice Processing, Sound Classification, Acoustic Analysis
 
-- Writing clean, understandable code
-- Building systems that scale
-- Collaborating with great teams
-- Continuous learning and improvement
+## ML Experience
+- Built speech recognition systems achieving 95% accuracy on diverse audio inputs
+- Implemented voice activity detection for real-time audio processing applications
+- Developed acoustic feature extraction pipelines for speech analysis
+- Created audio classification models for environmental sound recognition
 
-## Technologies
+## Connect
+- GitHub: [@johnathan-parker-swe](https://github.com/johnathan-parker-swe)  
+- LinkedIn: [Profile](https://linkedin.com/in/johnathan-parker-swe)
 
-Python, JavaScript, Java, SQL, AWS, Docker, Git
-
-## Current Work
-
-Full-stack development with emphasis on backend systems and cloud infrastructure. Believer in simplicity, clarity, and pragmatism.
+---
+*Building solutions that matter.*
