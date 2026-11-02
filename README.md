@@ -1,27 +1,26 @@
-## Johnathan Parker
+I am Johnathan Parker
 
-**Audio Intelligence**
+**Audio Machine Learning Engineer**
 
-### Experience Breakdown
+**Development Timeline:**
 
-**Year 1: Foundations**
-- Spectral analysis and MFCC features
-- Speech recognition basics
+**Year 1 - Fundamentals**
+- Spectral analysis and MFCC feature extraction
+- Speech recognition fundamentals
 - Audio preprocessing pipelines
 
-**Year 2: Deep Learning**
+**Year 2 - Deep Learning**
 - Sequence models for audio (RNNs, Transformers)
 - Speech-to-text systems (95% WER)
-- Voice activity detection
+- Voice activity detection implementation
 
-**Year 3: Production**
+**Year 3 - Production Systems**
 - Real-time audio processing
-- Streaming inference with low latency
-- Edge deployment on mobile
+- Low-latency streaming inference
+- Mobile and edge deployment
 
-### Current Work
-Emotion recognition from speech. Building systems that understand not just what's said, but how it's said.
+**Current Focus:** Emotion recognition from speech. Building systems that understand context and emotional content in audio.
 
-**Stack:** PyTorch, librosa, ONNX Runtime, Kalman filters for tracking
+**Technology Stack:** PyTorch, librosa, ONNX Runtime, signal processing libraries
 
-Challenge: Robustness across accents, languages, and acoustic environments.
+Challenge: Maintaining robustness across accents, languages, and diverse acoustic environments.
