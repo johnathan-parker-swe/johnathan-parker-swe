@@ -1,9 +1,18 @@
-Johnathan Parker
+# Johnathan Parker
 
-Software engineer who believes great software comes from great teams.
+Software engineer building systems that work reliably at scale.
 
-I write code that others can understand. I build systems that can scale. I mentor engineers who want to grow.
+## What I Focus On
 
-**In practice**: Full-stack development, code quality, architectural decisions, team dynamics
+- Writing clean, understandable code
+- Building systems that scale
+- Collaborating with great teams
+- Continuous learning and improvement
 
-Technologies: Python, JavaScript, Java, SQL, AWS, Docker, Git
+## Technologies
+
+Python, JavaScript, Java, SQL, AWS, Docker, Git
+
+## Current Work
+
+Full-stack development with emphasis on backend systems and cloud infrastructure. Believer in simplicity, clarity, and pragmatism.
