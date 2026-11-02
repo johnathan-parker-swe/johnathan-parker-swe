@@ -1,19 +1,27 @@
-# I am Johnathan Parker
+## Johnathan Parker
 
-**Software Engineer**
+**Audio Intelligence**
 
-## Focus Areas
-Audio ML, Speech Recognition, Voice Processing, Sound Classification, Acoustic Analysis
+### Experience Breakdown
 
-## ML Experience
-- Built speech recognition systems achieving 95% accuracy on diverse audio inputs
-- Implemented voice activity detection for real-time audio processing applications
-- Developed acoustic feature extraction pipelines for speech analysis
-- Created audio classification models for environmental sound recognition
+**Year 1: Foundations**
+- Spectral analysis and MFCC features
+- Speech recognition basics
+- Audio preprocessing pipelines
 
-## Connect
-- GitHub: [@johnathan-parker-swe](https://github.com/johnathan-parker-swe)  
-- LinkedIn: [Profile](https://linkedin.com/in/johnathan-parker-swe)
+**Year 2: Deep Learning**
+- Sequence models for audio (RNNs, Transformers)
+- Speech-to-text systems (95% WER)
+- Voice activity detection
 
----
-*Building solutions that matter.*
+**Year 3: Production**
+- Real-time audio processing
+- Streaming inference with low latency
+- Edge deployment on mobile
+
+### Current Work
+Emotion recognition from speech. Building systems that understand not just what's said, but how it's said.
+
+**Stack:** PyTorch, librosa, ONNX Runtime, Kalman filters for tracking
+
+Challenge: Robustness across accents, languages, and acoustic environments.
