@@ -1,9 +1,9 @@
-# Johnathan Parker
+Johnathan Parker
 
-**Software Engineer**
+Software engineer who believes great software comes from great teams.
 
-Developing software solutions across the full stack. Experience with enterprise applications and modern development practices.
+I write code that others can understand. I build systems that can scale. I mentor engineers who want to grow.
 
-**Focus Areas**: Software architecture, code quality, team collaboration, continuous improvement
+**In practice**: Full-stack development, code quality, architectural decisions, team dynamics
 
-**Technologies**: Python, JavaScript, Java, SQL, AWS, Docker, Git
+Technologies: Python, JavaScript, Java, SQL, AWS, Docker, Git
