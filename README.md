@@ -1,23 +1,9 @@
-# I am Johnathan Parker
+# Johnathan Parker
 
-![GitHub followers](https://img.shields.io/github/followers/johnathan-parker-swe?style=social)
-![Status](https://img.shields.io/badge/Looking_for-Opportunities-brightgreen)
+**Software Engineer**
 
-## 🛠️ Technical Skills
-Software Development, Full-Stack Architecture, Modern Frameworks
+Developing software solutions across the full stack. Experience with enterprise applications and modern development practices.
 
-## 🎯 Specialization
-Enterprise Development
+**Focus Areas**: Software architecture, code quality, team collaboration, continuous improvement
 
-## 📊 What I Do
-- Architect scalable systems
-- Write maintainable code
-- Lead technical initiatives
-- Share knowledge with teams
-
-## 🔗 Profiles
-- **GitHub**: [@johnathan-parker-swe](https://github.com/johnathan-parker-swe)
-- **LinkedIn**: [View Profile](https://linkedin.com/in/johnathan-parker-swe)
-
----
-*Engineer | Problem Solver | Tech Enthusiast*
+**Technologies**: Python, JavaScript, Java, SQL, AWS, Docker, Git
