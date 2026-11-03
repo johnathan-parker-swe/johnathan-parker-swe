@@ -1,5 +1,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg" />
-  <img src="./hero-light.svg" width="100%" alt="Hi there, I've spent 13+ years building web, mobile and cloud applications, and the part I enjoy most is the whole arc: the first rough prototype, the long middle, and the day it runs in production without anyone thinking about it. On the web, I built Staybook so vacation-rental hosts could take bookings directly, with live availability, an itemized price breakdown and Stripe checkout. Then Huddle, a whiteboard where a whole product team can sketch together and every cursor stays in sync. On mobile, ClearPass walks new customers through ID capture and a selfie match in React Native, and FieldKit gives field technicians an app that keeps working with no signal and sorts out conflicting edits once it's back. Behind the scenes, FleetPulse watches temperature sensors across refrigerated trucks and warehouses and speaks up before anything spoils, and LedgerSync keeps invoices and payments matched between commerce and accounting systems, retrying quietly when an API has a bad day. Different products, same habits: typed APIs, retries and monitoring built in, and releases on AWS or Azure that ship safely. — Johnathan Parker, senior software engineer" />
+  <img src="./hero-light.svg" width="100%" alt="Johnathan Parker, senior software engineer: web, mobile and cloud applications, from the first prototype through production" />
 </picture>
+
+
+### Selected work
+
+
+🌐 &nbsp;**Staybook** · direct booking for vacation-rental hosts, with live availability and Stripe checkout<br>
+🌐 &nbsp;**Huddle** · a real-time whiteboard where every sticky note and cursor stays in sync<br>
+📱 &nbsp;**ClearPass** · identity onboarding: ID capture, selfie match and a clear status for each step<br>
+📱 &nbsp;**FieldKit** · an offline-first app for field technicians that syncs when the signal returns<br>
+☁️ &nbsp;**FleetPulse** · cold-chain monitoring that flags temperature trouble before anything spoils<br>
+☁️ &nbsp;**LedgerSync** · keeps invoices and payments matched between commerce and accounting systems
 
