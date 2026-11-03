@@ -1,19 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="570" viewBox="0 0 1000 570">
-<g opacity="0.2" font-family="Helvetica" text-anchor="middle"><text font-size="99" font-weight="normal" transform="translate(339,183) rotate(0)" padding="6px" fill="#db2777">React</text><text font-size="99" font-weight="normal" transform="translate(727,359) rotate(0)" padding="6px" fill="#64748b">TypeScript</text><text font-size="88" font-weight="normal" transform="translate(549,463) rotate(0)" padding="6px" fill="#7c3aed">Node.js</text><text font-size="77" font-weight="normal" transform="translate(704,160) rotate(0)" padding="6px" fill="#7c3aed">React Native</text><text font-size="77" font-weight="normal" transform="translate(315,298) rotate(0)" padding="6px" fill="#0e7490">AWS</text><text font-size="66" font-weight="normal" transform="translate(485,246) rotate(0)" padding="6px" fill="#64748b">Swift</text><text font-size="66" font-weight="normal" transform="translate(751,272) rotate(0)" padding="6px" fill="#64748b">Next.js</text><text font-size="66" font-weight="normal" transform="translate(285,364) rotate(0)" padding="6px" fill="#0e7490">PostgreSQL</text><text font-size="55" font-weight="normal" transform="translate(647,88) rotate(0)" padding="6px" fill="#7c3aed">Azure</text><text font-size="55" font-weight="normal" transform="translate(254,482) rotate(0)" padding="6px" fill="#0e7490">GraphQL</text><text font-size="55" font-weight="normal" transform="translate(753,421) rotate(0)" padding="6px" fill="#2563eb">iOS</text><text font-size="55" font-weight="normal" transform="translate(420,91) rotate(0)" padding="6px" fill="#7c3aed">Android</text><text font-size="44" font-weight="normal" transform="translate(168,96) rotate(0)" padding="6px" fill="#2563eb">WebSockets</text><text font-size="44" font-weight="normal" transform="translate(559,513) rotate(0)" padding="6px" fill="#7c3aed">Stripe</text><text font-size="44" font-weight="normal" transform="translate(744,209) rotate(0)" padding="6px" fill="#2563eb">CI/CD</text><text font-size="44" font-weight="normal" transform="translate(671,45) rotate(0)" padding="6px" fill="#db2777">Offline</text><text font-size="44" font-weight="normal" transform="translate(859,80) rotate(0)" padding="6px" fill="#db2777">Real-time</text><text font-size="33" font-weight="normal" transform="translate(197,221) rotate(0)" padding="6px" fill="#2563eb">MQTT</text><text font-size="33" font-weight="normal" transform="translate(139,277) rotate(0)" padding="6px" fill="#64748b">RabbitMQ</text><text font-size="33" font-weight="normal" transform="translate(346,223) rotate(0)" padding="6px" fill="#0e7490">Redis</text><text font-size="33" font-weight="normal" transform="translate(281,418) rotate(0)" padding="6px" fill="#db2777">SQLite</text><text font-size="33" font-weight="normal" transform="translate(648,199) rotate(0)" padding="6px" fill="#db2777">Yjs</text><text font-size="33" font-weight="normal" transform="translate(142,180) rotate(0)" padding="6px" fill="#64748b">OAuth</text><text font-size="33" font-weight="normal" transform="translate(444,32) rotate(0)" padding="6px" fill="#7c3aed">TimescaleDB</text></g>
-<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#e6edf3">
-<text x="60" y="92">Hi there,</text>
-<text x="60" y="132">I&#39;ve spent 13+ years building web, mobile and cloud applications, and the part I enjoy most is the whole arc: the </text>
-<text x="60" y="158">first rough prototype, the long middle, and the day it runs in production without anyone thinking about it.</text>
-<text x="60" y="198">On the web, I built <tspan font-weight="700">Staybook</tspan> so vacation-rental hosts could take bookings directly, with live availability, an </text>
-<text x="60" y="224">itemized price breakdown and Stripe checkout. Then <tspan font-weight="700">Huddle</tspan>, a whiteboard where a whole product team can sketch </text>
-<text x="60" y="250">together and every cursor stays in sync.</text>
-<text x="60" y="290">On mobile, <tspan font-weight="700">ClearPass</tspan> walks new customers through ID capture and a selfie match in React Native, and <tspan font-weight="700">FieldKit</tspan> gives </text>
-<text x="60" y="316">field technicians an app that keeps working with no signal and sorts out conflicting edits once it&#39;s back.</text>
-<text x="60" y="356">Behind the scenes, <tspan font-weight="700">FleetPulse</tspan> watches temperature sensors across refrigerated trucks and warehouses and speaks up </text>
-<text x="60" y="382">before anything spoils, and <tspan font-weight="700">LedgerSync</tspan> keeps invoices and payments matched between commerce and accounting systems, </text>
-<text x="60" y="408">retrying quietly when an API has a bad day.</text>
-<text x="60" y="448">Different products, same habits: typed APIs, retries and monitoring built in, and releases on AWS or Azure that </text>
-<text x="60" y="474">ship safely.</text>
-<text x="940" y="520" text-anchor="end" font-style="italic" font-weight="700" font-size="17">— Johnathan Parker</text>
-<text x="940" y="542" text-anchor="end" font-size="13" fill="#9198a1">senior software engineer · web, mobile and cloud</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#131a2a"/></linearGradient>
+<pattern id="p" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#21262d"/></pattern>
+<filter id="s" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#0f172a" flood-opacity="0.5"/></filter>
+</defs>
+<rect width="1000" height="440" rx="18" fill="url(#g)"/>
+<rect width="1000" height="440" rx="18" fill="url(#p)"/>
+
+<text x="56" y="126" font-size="13" font-weight="700" letter-spacing="2.5" fill="#58a6ff">SENIOR SOFTWARE ENGINEER</text>
+<text x="54" y="184" font-size="48" font-weight="800" fill="#e6edf3">Johnathan Parker</text>
+<text x="56" y="226" font-size="18" fill="#9198a1">Web, mobile and cloud applications,</text>
+<text x="56" y="252" font-size="18" fill="#9198a1">from the first prototype through production.</text>
+<rect x="56" y="300" width="90" height="28" rx="14" fill="#1c2333" stroke="#30363d"/><text x="101" y="319" text-anchor="middle" font-size="13" fill="#e6edf3">13+ years</text>
+<rect x="154" y="300" width="225" height="28" rx="14" fill="#1c2333" stroke="#30363d"/><text x="266.5" y="319" text-anchor="middle" font-size="13" fill="#e6edf3">React · Next.js · TypeScript</text>
+<rect x="56" y="338" width="168" height="28" rx="14" fill="#1c2333" stroke="#30363d"/><text x="140" y="357" text-anchor="middle" font-size="13" fill="#e6edf3">React Native · Swift</text>
+<rect x="232" y="338" width="147" height="28" rx="14" fill="#1c2333" stroke="#30363d"/><text x="305.5" y="357" text-anchor="middle" font-size="13" fill="#e6edf3">Node.js · GraphQL</text>
+<rect x="387" y="338" width="104" height="28" rx="14" fill="#1c2333" stroke="#30363d"/><text x="439" y="357" text-anchor="middle" font-size="13" fill="#e6edf3">AWS · Azure</text>
+
+<!-- cloud -->
+<g opacity="0.95">
+<path d="M702 128 a34 34 0 0 1 30 -46 a46 46 0 0 1 86 -10 a36 36 0 0 1 60 22 a30 30 0 0 1 -4 60 h-160 a28 28 0 0 1 -12 -26z" fill="#1f2937" stroke="#30363d"/>
+<text x="790" y="132" text-anchor="middle" font-size="12" font-weight="700" fill="#a371f7">AWS · Azure</text>
+<text x="790" y="150" text-anchor="middle" font-size="11" fill="#9198a1">FleetPulse · LedgerSync</text>
+</g>
+<path d="M745 156 C 730 190, 700 196, 690 214" fill="none" stroke="#a371f7" stroke-width="1.5" stroke-dasharray="4 4"/>
+<path d="M840 156 C 860 186, 880 196, 892 236" fill="none" stroke="#a371f7" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+<!-- browser -->
+<g filter="url(#s)">
+<rect x="566" y="214" width="320" height="196" rx="12" fill="#161b22" stroke="#30363d"/>
+<path d="M566 226 a12 12 0 0 1 12 -12 h296 a12 12 0 0 1 12 12 v16 h-320z" fill="#1f2937"/>
+<circle cx="584" cy="228" r="4.5" fill="#ff5f57"/><circle cx="598" cy="228" r="4.5" fill="#febc2e"/><circle cx="612" cy="228" r="4.5" fill="#28c840"/>
+<rect x="630" y="221" width="200" height="14" rx="7" fill="#161b22" stroke="#30363d"/>
+</g>
+<text x="584" y="266" font-size="12" font-weight="700" fill="#e6edf3">Staybook</text>
+<rect x="584" y="276" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="584" y="294" width="14" height="14" rx="3" fill="#58a6ff" stroke="#30363d" stroke-width="0.6"/><rect x="584" y="312" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="602" y="276" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="602" y="294" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="602" y="312" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="620" y="276" width="14" height="14" rx="3" fill="#58a6ff" stroke="#30363d" stroke-width="0.6"/><rect x="620" y="294" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="620" y="312" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="638" y="276" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="638" y="294" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="638" y="312" width="14" height="14" rx="3" fill="#58a6ff" stroke="#30363d" stroke-width="0.6"/><rect x="656" y="276" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="656" y="294" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="656" y="312" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="674" y="276" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="674" y="294" width="14" height="14" rx="3" fill="#58a6ff" stroke="#30363d" stroke-width="0.6"/><rect x="674" y="312" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="692" y="276" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="692" y="294" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/><rect x="692" y="312" width="14" height="14" rx="3" fill="#1f2937" stroke="#30363d" stroke-width="0.6"/>
+<rect x="584" y="338" width="122" height="22" rx="6" fill="#58a6ff"/><text x="645" y="353" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">Book · Stripe</text>
+<line x1="726" y1="256" x2="726" y2="398" stroke="#30363d"/>
+<text x="742" y="266" font-size="12" font-weight="700" fill="#e6edf3">Huddle</text>
+<rect x="742" y="278" width="46" height="40" rx="4" fill="#fde68a" transform="rotate(-4 765 298)"/>
+<rect x="798" y="284" width="46" height="40" rx="4" fill="#bbf7d0" transform="rotate(3 821 304)"/>
+<rect x="760" y="332" width="46" height="40" rx="4" fill="#bfdbfe" transform="rotate(2 783 352)"/>
+<path d="M788 300 L798 304" stroke="#9198a1" stroke-width="1.5"/>
+<path d="M826 340 l0 16 l4 -4 l4 8 l3 -1.5 l-4 -7.5 l6 0z" fill="#a371f7"/>
+<text x="842" y="368" font-size="10" fill="#a371f7">live</text>
+
+<!-- phone -->
+<g filter="url(#s)">
+<rect x="862" y="238" width="112" height="190" rx="20" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<rect x="898" y="246" width="40" height="6" rx="3" fill="#30363d"/>
+</g>
+<text x="876" y="276" font-size="12" font-weight="700" fill="#e6edf3">ClearPass</text>
+<circle cx="883" cy="294" r="7" fill="#16a34a"/><path d="M879.5 294 l2.5 2.5 l4.5 -5" stroke="#fff" stroke-width="1.6" fill="none"/><text x="896" y="298" font-size="11" fill="#9198a1">ID</text><circle cx="883" cy="316" r="7" fill="#16a34a"/><path d="M879.5 316 l2.5 2.5 l4.5 -5" stroke="#fff" stroke-width="1.6" fill="none"/><text x="896" y="320" font-size="11" fill="#9198a1">Selfie</text><circle cx="883" cy="338" r="7" fill="#16a34a"/><path d="M879.5 338 l2.5 2.5 l4.5 -5" stroke="#fff" stroke-width="1.6" fill="none"/><text x="896" y="342" font-size="11" fill="#9198a1">Checks</text>
+<line x1="874" y1="352" x2="962" y2="352" stroke="#30363d"/>
+<text x="876" y="372" font-size="12" font-weight="700" fill="#e6edf3">FieldKit</text>
+<rect x="876" y="382" width="74" height="20" rx="10" fill="#1f2937" stroke="#30363d"/><text x="913" y="396" text-anchor="middle" font-size="10" fill="#9198a1">offline ✓ sync</text>
+</svg>
